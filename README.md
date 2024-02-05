@@ -1,2 +1,2 @@
 # practice
-algorithm exercises
+These are algorithm exercises I've made to practicing coding.
